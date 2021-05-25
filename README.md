@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @P-Jag
-- 👀 I’m interested in daily basis: Sport / in tech: Machine Learning
+- 👀 I’m interested in daily basis: Sports (football/climbing/paragliding)
 - 🌱 I’m currently learning Flutter/Dart and Swift
