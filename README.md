@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @P-Jag
-- 👀 I’m interested: Sports (football/climbing/paragliding)
-- 🌱 I’m currently learning Flutter/Dart and Swift
+- 👀 I’m interested: Sports (football/paragliding)
+- 🌱 I’m currently learning Swift
